@@ -24,7 +24,8 @@ Example
 ```
 renamer -s testdll.dll -d output.dll -f JinwooDoo -t MyDll
 ```
-![example](img/example.png)
+![example](img/example.png)<br>
+![changed](img/changed.png)
 
 
 Download
