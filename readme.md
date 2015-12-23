@@ -6,17 +6,17 @@ Renamer.Net
 Commandline Options
 ----
 * __-s / --src__
-  º¯°æÇÒ ÆÄÀÏµéÀÇ ¸ñ·Ï
+  ë³€ê²½í•  íŒŒì¼ë“¤ì˜ ëª©ë¡
 * __-d / --dst__
-  ÀúÀåÇÒ °æ·ÎÀÇ ¸ñ·Ï
+  ì €ìž¥í•  ê²½ë¡œì˜ ëª©ë¡
 * __-f / --from__
-  °Ë»öÇÒ ³×ÀÓ½ºÆäÀÌ½º ÀÌ¸§
+  ê²€ìƒ‰í•  ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ì´ë¦„
 * __-t / __to__
-  º¯°æÇÒ ³×ÀÓ½ºÆäÀÌ½º ÀÌ¸§
+  ë³€ê²½í•  ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ì´ë¦„
 * r / --recursive
-  ÇØ´ç ¾î¼Àºí¸®ÀÇ ÂüÁ¶±îÁö ¸ðµÎ º¯°æÇÕ´Ï´Ù. (not implemented yet)
+  í•´ë‹¹ ì–´ì…ˆë¸”ë¦¬ì˜ ì°¸ì¡°ê¹Œì§€ ëª¨ë‘ ë³€ê²½í•©ë‹ˆë‹¤. (not implemented yet)
 * g / regex
-  `from` ¿É¼ÇÀÇ °ªÀÌ Á¤±Ô½ÄÀÓÀ» ÁöÁ¤ÇÕ´Ï´Ù.
+  `from` ì˜µì…˜ì˜ ê°’ì´ ì •ê·œì‹ìž„ì„ ì§€ì •í•©ë‹ˆë‹¤.
 (bold -> mandatory option)
 
 Example
@@ -29,4 +29,4 @@ renamer -s testdll.dll -d output.dll -f JinwooDoo -t MyDll
 
 Download
 ----
-[GithubReleasePage]()
+[GithubReleasePage](https://github.com/pjc0247/Renamer.Net/releases/tag/0.1.0)
