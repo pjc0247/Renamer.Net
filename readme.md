@@ -1,7 +1,7 @@
 Renamer.Net
 ====
 
-### .Net assembly renamer
+.Net assembly renamer
 
 Commandline Options
 ----
