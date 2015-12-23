@@ -1,7 +1,7 @@
-Renamer.Net
+﻿Renamer.Net
 ====
 
-.Net assembly renamer
+.Net assembly namespace renamer
 
 Commandline Options
 ----
@@ -17,6 +17,7 @@ Commandline Options
   해당 어셈블리의 참조까지 모두 변경합니다. (not implemented yet)
 * g / regex
   `from` 옵션의 값이 정규식임을 지정합니다.
+
 (bold -> mandatory option)
 
 Example
